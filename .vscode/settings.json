@@ -1,0 +1,6 @@
+{
+  "elixirLS.dialyzerEnabled": false,
+  "elixirLS.projectDir": "backend",
+  "elixirLS.suggestSpecs": false,
+  "elixir.credo.configurationFile": "backend/.credo.exs"
+}
